@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Everton Silva 👋
+
+- Data scientist and Professor at Federal Institute of São Paulo. 
+- Experienced in Computer Science, with an emphasis on Machine Learning and Algo Trading for the Brazilian Stock Market. 
 
 <!--
 **evertonjs/evertonjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
